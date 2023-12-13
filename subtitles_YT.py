@@ -49,7 +49,7 @@ def write_subtitles(language, subtitles):
 
 
 def main():
-    video_id = 'Enter the YouTube video ID in the space provided.'
+    video_id = 'Enter the YouTube video ID'
     base_language = 'es'
     target_language = 'en'
 
